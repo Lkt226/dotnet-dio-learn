@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "DotnetInDio/1.0.0": {
+        "runtime": {
+          "DotnetInDio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DotnetInDio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\Victor Hugo\Documents\GitHub\dotnet-dio-learn\bin\Debug\net5.0\DotnetInDio.exe
+C:\Users\Victor Hugo\Documents\GitHub\dotnet-dio-learn\bin\Debug\net5.0\DotnetInDio.deps.json
+C:\Users\Victor Hugo\Documents\GitHub\dotnet-dio-learn\bin\Debug\net5.0\DotnetInDio.runtimeconfig.json
+C:\Users\Victor Hugo\Documents\GitHub\dotnet-dio-learn\bin\Debug\net5.0\DotnetInDio.runtimeconfig.dev.json
+C:\Users\Victor Hugo\Documents\GitHub\dotnet-dio-learn\bin\Debug\net5.0\DotnetInDio.dll
+C:\Users\Victor Hugo\Documents\GitHub\dotnet-dio-learn\bin\Debug\net5.0\ref\DotnetInDio.dll
+C:\Users\Victor Hugo\Documents\GitHub\dotnet-dio-learn\bin\Debug\net5.0\DotnetInDio.pdb
+C:\Users\Victor Hugo\Documents\GitHub\dotnet-dio-learn\obj\Debug\net5.0\DotnetInDio.csproj.AssemblyReference.cache
+C:\Users\Victor Hugo\Documents\GitHub\dotnet-dio-learn\obj\Debug\net5.0\DotnetInDio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor Hugo\Documents\GitHub\dotnet-dio-learn\obj\Debug\net5.0\DotnetInDio.AssemblyInfoInputs.cache
+C:\Users\Victor Hugo\Documents\GitHub\dotnet-dio-learn\obj\Debug\net5.0\DotnetInDio.AssemblyInfo.cs
+C:\Users\Victor Hugo\Documents\GitHub\dotnet-dio-learn\obj\Debug\net5.0\DotnetInDio.csproj.CoreCompileInputs.cache
+C:\Users\Victor Hugo\Documents\GitHub\dotnet-dio-learn\obj\Debug\net5.0\DotnetInDio.dll
+C:\Users\Victor Hugo\Documents\GitHub\dotnet-dio-learn\obj\Debug\net5.0\ref\DotnetInDio.dll
+C:\Users\Victor Hugo\Documents\GitHub\dotnet-dio-learn\obj\Debug\net5.0\DotnetInDio.pdb
+C:\Users\Victor Hugo\Documents\GitHub\dotnet-dio-learn\obj\Debug\net5.0\DotnetInDio.genruntimeconfig.cache
