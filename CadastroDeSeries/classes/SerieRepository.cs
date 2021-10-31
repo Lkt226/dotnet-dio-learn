@@ -10,7 +10,6 @@ namespace CadastroDeSeries
       public void Delete(int id)
       {
          listSeries[id].delete();
-         throw new NotImplementedException();
       }
 
       public void Insert(Serie obj)
