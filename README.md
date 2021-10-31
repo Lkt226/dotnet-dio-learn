@@ -1,7 +1,5 @@
-# Curso de C# da Dio
+# DIA DOTNET
 
-Talvez tenha algumas diferenças da versão oficial, talvez não.
+## Estou fazendo um bootcamp da dio, e nele contem alguns projetos de desafios e cursos de dotnet, nessa page vou guardar os projetos que for fazendo dos desafios, e os projetos do curso.
 
-é que eu fui escrevendo durante o curso, não clonei o git deles.
-
-Nois S2.
+https://web.digitalinnovation.one
